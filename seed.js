@@ -5,9 +5,9 @@ const User = require('./models/User');
 dotenv.config();
 
 const users = [
-  { name: 'Alice Johnson', email: 'alice@example.com', age: 25 },
-  { name: 'Bob Smith', email: 'bob@example.com', age: 19 },
-  { name: 'Charlie Brown', email: 'charlie@example.com', age: 30 },
+  { name: 'Rahul Kumar', email: 'rahul@example.com', age: 26 },
+  { name: 'John Doe', email: 'john@example.com', age: 19 },
+  { name: 'Jane Doe', email: 'jane@example.com', age: 30 },
 ];
 
 mongoose
